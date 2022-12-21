@@ -1,0 +1,14 @@
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\bin\Debug\netcoreapp3.1\Project.exe
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\bin\Debug\netcoreapp3.1\Project.deps.json
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\bin\Debug\netcoreapp3.1\Project.runtimeconfig.json
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\bin\Debug\netcoreapp3.1\Project.runtimeconfig.dev.json
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\bin\Debug\netcoreapp3.1\Project.dll
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\bin\Debug\netcoreapp3.1\Project.pdb
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\obj\Debug\netcoreapp3.1\Project.csproj.AssemblyReference.cache
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\obj\Debug\netcoreapp3.1\Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\obj\Debug\netcoreapp3.1\Project.AssemblyInfoInputs.cache
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\obj\Debug\netcoreapp3.1\Project.AssemblyInfo.cs
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\obj\Debug\netcoreapp3.1\Project.csproj.CoreCompileInputs.cache
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\obj\Debug\netcoreapp3.1\Project.dll
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\obj\Debug\netcoreapp3.1\Project.pdb
+C:\Users\SONY\Desktop\20.12.2022\tasklar\tasklar\obj\Debug\netcoreapp3.1\Project.genruntimeconfig.cache
